@@ -1,0 +1,14 @@
+chr - os1 1 0 640851 yellow
+chr - os2 2 0 947102 gpos25
+chr - os3 3 0 1067971 black
+chr - os4 4 0 1200490 blue
+chr - os5 5 0 1343557 gpos75
+chr - os6 6 0 1418242 red
+chr - os7 7 0 1445207 spectral-5-div-4
+chr - os8 8 0 1472805 gpos100
+chr - os9 9 0 1541735 stalk
+chr - os10 10 0 1687656 acen
+chr - os11 11 0 2038340 green
+chr - os12 12 0 2271494 orange
+chr - os13 13 0 2925236 blue
+chr - os14 14 0 3291936 spectral-5-div-1
