@@ -1,5 +1,5 @@
 
-## Sample SR05
+### Sample SR05
 #LANE1
 https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR05_L001_R1.fastq.gz
 https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR05_L001_R2.fastq.gz
@@ -13,7 +13,8 @@ https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-file
 https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR05_L003_R2.fastq.gz
 
 
-## Sample SR06
+
+### Sample SR06
 #LANE1
 https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR06_L001_R1.fastq.gz
 https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR06_L001_R2.fastq.gz
