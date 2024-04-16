@@ -1,0 +1,30 @@
+
+## Sample SR05
+#LANE1
+https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR05_L001_R1.fastq.gz
+https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR05_L001_R2.fastq.gz
+
+#LANE2
+https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR05_L002_R1.fastq.gz
+https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR05_L002_R2.fastq.gz
+
+#LANE3
+https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR05_L003_R1.fastq.gz
+https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR05_L003_R2.fastq.gz
+
+
+## Sample SR06
+#LANE1
+https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR06_L001_R1.fastq.gz
+https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR06_L001_R2.fastq.gz
+
+#LANE2
+https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR06_L002_R1.fastq.gz
+https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR06_L002_R2.fastq.gz
+
+#LANE3
+https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR06_L003_R1.fastq.gz
+https://github.com/vappiah/bioinformatics-tutorials/raw/main/handling-fastq-files/merge-multi-lane-files/paired-end/SR06_L003_R2.fastq.gz
+
+
+
