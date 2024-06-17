@@ -1,4 +1,4 @@
-# Execute the commands below in the Krona installation directory
+# Execute the commands in the Krona installation directory
 
 
 ### Step 1 - Download the NCBI source files
