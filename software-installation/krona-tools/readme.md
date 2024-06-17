@@ -16,7 +16,7 @@ wget -c ftp://ftp.ncbi.nih.gov/pub/taxonomy/accession2taxid/dead_nucl.accession2
 
 mkdir taxonomy/accession2taxid
 
-mv taxonomy/*accession*.gz accession2taxid
+mv *accession*.gz taxonomy/accession2taxid
 
 mv taxdump.tar.gz taxonomy
 ```
