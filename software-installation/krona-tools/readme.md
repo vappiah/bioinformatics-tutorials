@@ -18,6 +18,7 @@ mkdir taxonomy/accession2taxid
 
 mv taxonomy/*accession*.gz accession2taxid
 
+mv taxdump.tar.gz taxonomy
 ```
 
 ### Step 2 - Run the update files
