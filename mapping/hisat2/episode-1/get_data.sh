@@ -7,10 +7,6 @@
 wget -c ftp://ftp.ccb.jhu.edu/pub/RNAseq_protocol/chrX_data.tar.gz
 tar xvfz chrX_data.tar.gz
 
-resourcedir=resources
-mkdir $resourcedir
-
-
 #mv chrX_data/geuvadis_phenodata.csv $resourcedir
 mv -v chrX_data/samples ./fastq 
 mkdir ref
@@ -21,5 +17,4 @@ mv chrX_data/genome/chrX.fa ref
 #remove unwanted files
 rm -fr chrX_data
 
-echo "data preparating is completed"
-echo "all data can be found in the directory : \"resources\" " 
+echo "Data has been downloaded. Check your current directory " 
