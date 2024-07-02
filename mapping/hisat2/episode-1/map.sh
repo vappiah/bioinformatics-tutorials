@@ -1,5 +1,5 @@
 
-mapdir=mapped
+mkdir mapped
 
 hisat2 -p 8 --dta -x index/chrX_tran -1 fastq/ERR188044_chrX_1.fastq.gz -2 fastq/ERR188044_chrX_2.fastq.gz -S mapped/ERR188044.sam
 samtools view mapped/ERR188044.sam -o mapped/ERR188044.bam
