@@ -18,4 +18,6 @@ wget https://raw.githubusercontent.com/vappiah/bioinformatics-tutorials/main/map
 #remove unwanted files
 rm -fr chrX_data
 
+chmod +x map.sh
+
 echo "Data has been downloaded. Check your current directory " 
