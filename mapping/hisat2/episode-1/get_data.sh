@@ -7,12 +7,13 @@
 wget -c ftp://ftp.ccb.jhu.edu/pub/RNAseq_protocol/chrX_data.tar.gz
 tar xvfz chrX_data.tar.gz
 
-#mv chrX_data/geuvadis_phenodata.csv $resourcedir
+
 mv -v chrX_data/samples ./fastq 
 mkdir ref
 mv chrX_data/genes/chrX.gtf ref
 mv chrX_data/genome/chrX.fa ref
 
+wget https://raw.githubusercontent.com/vappiah/bioinformatics-tutorials/main/mapping/hisat2/episode-1/map.sh
 
 #remove unwanted files
 rm -fr chrX_data
